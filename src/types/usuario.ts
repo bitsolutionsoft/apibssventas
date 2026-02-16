@@ -1,0 +1,3 @@
+interface Usuario{
+    idusuario: number
+}
